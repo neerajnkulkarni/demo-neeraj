@@ -4,5 +4,9 @@ edied from git user1
 edited from git user2
 edited from github user
 
+<<<<<<< HEAD
 
 edited from git user3
+=======
+edited from github user2
+>>>>>>> 13b9fa33f38089c357128160c75c9d2bcddce502
